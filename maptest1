@@ -1,1 +1,29 @@
-<iframe src='//rstudio-pubs-static.s3.amazonaws.com/838985_577cb26109e24dcb903ca48ca983fa72.html'>style="border: none; width: 900px; height: 800px"></iframe>
+<body text="#ffffff" link="#ff0000" vlink="#ff0000" alink="#ff0000">
+
+<article>
+
+  <div class="row">
+
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+<h3 id="median-income">Median Income:</h3>
+
+<iframe
+  src='//rstudio-pubs-static.s3.amazonaws.com/839333_430a2b637ee341968f6cd139b82da8d8.html'
+  width="800px"
+  height="500px"
+>
+
+</iframe>
+
+<p>From: 2019 ACS 5-year</p>
+
+<h3 id="women-who-">Women Who Had A Birth, Last 12 Months:</h3>
+
+<iframe
+  src='//rstudio-pubs-static.s3.amazonaws.com/838985_577cb26109e24dcb903ca48ca983fa72.html'
+  width="800px"
+  height="500px"
+>
+</iframe>
+<p>From: 2019 ACS 5-year</p>
