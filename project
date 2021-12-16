@@ -1,0 +1,25 @@
+<body text="#ffffff" link="#ff0000" vlink="#ff0000" alink="#ff0000">
+
+<article>
+
+  <div class="row">
+
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+<h3 id="households-with-children-under-18">Households with Children under 18:</h3>
+
+    <iframe
+    src='//rstudio-pubs-static.s3.amazonaws.com/848299_f88aa7248fa14657857a09c51ab3a5eb.html'
+    width="800px"
+    height="500px"
+    >
+    </iframe>
+  
+  <p>From: 2019 ACS 5-year</p>
+  
+  <iframe
+    src='//rstudio-pubs-static.s3.amazonaws.com/848299_f88aa7248fa14657857a09c51ab3a5eb.html'
+    width="800px"
+    height="500px"
+    >
+    </iframe>
