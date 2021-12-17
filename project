@@ -74,3 +74,32 @@
     <p>From: 2019 ACS 5-year</p>
   </div>
 </div>
+
+  <div class="row">
+
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="wrapper">
+  <div class="box">
+    <h3 id="married-women-who-had-birth-last-12-months-in-labor-force">Married Women, <br> Who had a Birth in the last 12 months, <br> in Labor Force:</h3>
+        <iframe
+          src='//rstudio-pubs-static.s3.amazonaws.com/848716_7ceac4fe24eb4e0794b4a7a34aaa46c8.html'
+          width="100%"
+          height="500px"
+         >
+      </iframe>
+
+    <p>From: 2019 ACS 5-year</p>
+  </div>
+
+  <div class="box">
+    <h3 id="unmarried-women-who-had-birth-last-12-months-in-labor-force">Unmarried Women, <br> Who had a Birth in the last 12 months, <br> in Labor Force:</h3>
+      <iframe
+        src='//rstudio-pubs-static.s3.amazonaws.com/848727_31e91588419649318838b550c7eeefcc.html'
+        width="100%"
+        height="500px"
+        >
+        </iframe>
+
+    <p>From: 2019 ACS 5-year</p>
+  </div>
+</div>
