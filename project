@@ -17,6 +17,25 @@
 
 <article>
 
+<p>
+<b>Table of Contents</b>
+<br>1.
+<br>2.
+<br>3.
+<br>4.
+</p>
+
+<p>
+<b>Section 1</b>
+<br>Text explaining covid and impact on working parents/mothers leaving the workforce.
+<br>Image about mothers/parents leaving workforce.
+</p>
+
+<p>
+<b>Section 2 (Story)</b>
+<br>Explanation of maps
+</p>
+
   <div class="row">
 
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -75,20 +94,26 @@
   </div>
 </div>
 
+<p>
+<b>Section 3: Houses without computers/internet (obstacle)</b>
+<br>Text explaining importance of work flexibility for parents and remote working. 
+<br>Talk about importance of internet and computer at home.
+</p>
+
   <div class="row">
 
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 <div class="wrapper">
   <div class="box">
-    <h3 id="married-women-who-had-birth-last-12-months-in-labor-force">Married Women, <br> Who had a Birth in the last 12 months, <br> in Labor Force:</h3>
+    <h3 id="households-with-no-computer">Households with No Computer:</h3>
         <iframe
-          src='//rstudio-pubs-static.s3.amazonaws.com/848716_7ceac4fe24eb4e0794b4a7a34aaa46c8.html'
+          src='//rstudio-pubs-static.s3.amazonaws.com/850236_64d258009549426ca4aacfb0f76eb390.html'
           width="100%"
           height="500px"
          >
       </iframe>
 
-    <p>From: 2019 ACS 5-year</p>
+    <p>From: 2019 ACS 1-year</p>
   </div>
 
   <div class="box">
@@ -104,6 +129,10 @@
   </div>
 </div>
 
+<p>
+<b>Section 4</b>
+<br>Text about our demographisc related to above tables.
+</p>
 
 <iframe title="Title I and Title III Maps - Page 4" 
   width="100%" 
